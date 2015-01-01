@@ -1,0 +1,30 @@
+---
+title: Public communication for the new era
+updated: 2016-01-27 13:00
+---
+
+First times can be terrifying, the first blog post is just daunting. So let's break the ice with a drinking story.
+
+## A drinking story and no punchline
+A week or two ago M. and I went to this half a bar, half a coffee shop that's half a block away from her apartament. She is new to the city and drags me to all sorts of events meant for tourists and middle-aged couples looking for a reason to stay together. This time we were to attend a talk on Iceland as seen by a foreigner. However, the place was packed and there was no chance of squeezing into the event space and meet the foreigner in question. Instead, we contented ourselves with a drink at a table near the counter that somehow stood the invasion untouched. And, as every single refuge in this crowded world, it was soon to be disturbed.
+
+So, there came this guy and asked if he could join in. An older guy, with a moustache[^1]. You can't expect any good from an older guy with a moustache[^2]. The table was big enough and there really was no reason not to share it, so we went all "Yeah, sure." He joined with a pint, didn't fuss and had no intention to make friends. All that together could only mean a plus one about to arrive. And so he did. There was some standard manly chit-chatting for a while, but after thirty minutes or so you could feel the situation getting pretty tense as the politics talk started. Ryszard, or the moustache guy, turned out to be very well-spoken and yet apparrently he struggled really hard not to get more candid as a streak of clichés with an occasional racial slur kept on flowing in from the other side of the table. I controlled myself pretty well until after another pint and with M. away in the restroom, thus unable to stop me. 
+
+The discussion got longer and more heated than any of us would have wanted, but above all - it was utterly pointless. Not pointless in the "We're trashed, we make no sense." way. Not even in the "We represent two entirely different ideological backgrounds, there is no room for agreement." way. It was pointless with the purest pointlessness out there: incapacity to process each other's talking properly. And properly means quickly and accurately enough for it to be meaningful and useful.
+
+## Our brains are just not fit for discussion
+Embedded story time: You take a friend for lunch and start a controversial topic. You get emotional, you feel the buzz and desperately want to show her you're right. Or maybe not, maybe you keep the cool, listen to her with full attention and carefully respond to her remarks with refined argumentation. Let's say you win, let's say you lose, or let's say in the end you agree and get all consensual. Now, a quick test: where did it all start? What were the first three points you made? Can you reconstruct your debate further on? Of course you can't, unless you're [this guy](https://www.youtube.com/watch?v=t2uRuFgZSDc). 
+
+The maximum span of human [working memory](https://en.wikipedia.org/wiki/Working_memory) sticks around 60 seconds[^3]. There is nothing you can discuss in 60 seconds; even a strategy to get to the men's room at your pal's birthday party takes more time to devise. And if you can't go back with reasonable accuracy more than a mouthful words, then you're just mumbling uncontrollably what you believe is right to mumble. Talking with such a brief memory span is plain reacting. It seems late Wittgenstein was right after all, when we talk we're but trained animals playing games; just fitting wooden figures in their places.
+
+Some still might say "Hey, this working memory is one thing but there's also short memory we have. Maybe we can use that?". Working memory actually uses stuff and short memory just stores it. *Storing* and *using* are two distinc functions. These two articles from [Stanford](http://www-psych.stanford.edu/~ashas/Cognition%20Textbook/chapter6.pdf) and [NCBI](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2657600/) make a fine introduction to the topic and are really worth a read.
+
+The problem, of course, is not just the one of remembering. And the evidence is out there for all of us to see in our everyday lives. We think too slow, our attention span is pathetic, we are easily distracted and tend to overestimate bodily and psychological features of our interlocutors. We like to debunk our opponents in debate as unsubstantive, but at the same time we can't help judging their looks and pronunciation. We make our minds about people in tenths of a second[^4] and with that we also set our expectations about how meritful their input is likely to be. This isn't a favourable environment for any meaningful discussion, not to mention a process of decision making on big, truly complex issues.
+
+## 
+Now, all this raises a troubling question. How can we found well-being of our societies and the future of our children on an activity we just suck at as a species? And that's exactly what we keep on doing in the media, politcs and civil activism. In democracies, the most important mean of altering the societal surroundings is through collective decision making. We talk... verbal debate... etc...
+
+[^1]: Right now I'm not sure anymore if Ryszard did have a moustache. I'll check it out soon, that's a promise.
+[^2]: ![Final proof](https://arcturusproject.files.wordpress.com/2015/08/col-sanders.jpg)
+[^3]: [John B. Arden, Lloyd Linford. 2008. *Brain-Based Therapy with Adults*. John Wiley & Sons.](https://books.google.pl/books?id=w1GQZF983BQC) p. 96.
+[^4]: To be fair, I didn't delve into the matter any deeper than [this pop-article by APS](http://www.psychologicalscience.org/index.php/publications/observer/2006/july-06/how-many-seconds-to-a-first-impression.html), [this text in the Guardian](http://www.theguardian.com/world/2009/mar/08/human-brain-circuit-impressions) and [this cool post from Scientific American's blog](http://blogs.scientificamerican.com/frontiers-for-young-minds/how-quickly-can-and-should-you-judge-a-face/).
