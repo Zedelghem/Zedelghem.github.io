@@ -1,7 +1,15 @@
+@font-face {
+  font-family: "CoolMonospace";
+  src: url('assets/79e13e-Regular-R141126-webb5b9.eot') format('eot'), /* IE9 Compat Modes */
+       url('assets/79e13e-Regular-R141126-webb5b9.woff') format('woff'), /* Pretty Modern Browsers */
+       url('assets/79e13e-Regular-R141126-webb5b9.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
 body {
   background-image: "assets/bg.png";
   background: repeat;
-  font-family: 'Fira Sans', sans-serif;
+  font-family: 'CoolMonospace', sans-serif;
+  /*font-family: 'Fira Sans', sans-serif;*/
   padding: 20px;
   margin: 0;
   font-weight: 400;
