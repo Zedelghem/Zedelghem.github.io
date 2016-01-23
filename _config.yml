@@ -14,7 +14,7 @@ twitter_username:
 baseurl:            "http://zedelghem.github.io" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Europe/Warsaw # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-logo_url:           http://colonial.one/assets/spaceship.png
+logo_url:           "http://colonial.one/assets/spaceship.png"
 
 # Site Build
 highlighter:        pygments
