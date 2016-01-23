@@ -275,7 +275,7 @@ article {
   }
   .center {
     text-align: center;
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
   }
   hr {
     border: 0;
@@ -396,3 +396,7 @@ section {
     max-width: 500px;
 }
 
+.middle {
+    margin-left: auto;
+    margin-right: auto;
+}
