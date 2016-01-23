@@ -275,7 +275,7 @@ article {
   }
   .center {
     text-align: center;
-    margin: 0 auto;
+    margin: 0 auto 0 auto;
   }
   hr {
     border: 0;
@@ -390,6 +390,9 @@ section {
 
 #disqus_thread {
     max-width: 500px;
-    margin-left: auto;
-    margin-right: auto;
 }
+
+#footer {
+    max-width: 500px;
+}
+
