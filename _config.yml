@@ -1,6 +1,6 @@
 # Site Info
 title:              "Colonial One"
-description:        "Your flag-blog on the way to the future."
+description:        "A blog on philosophy, science and the future of human race. Your flag-blog on the way to the future."
 #logo.url:           "http://colonial.one/assets/spaceship.png"
 google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
 google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
@@ -12,7 +12,7 @@ author_gravatar:     # Gravatar md5 hash
 twitter_username:   
 
 # Site Settings
-baseurl:            "http://zedelghem.github.io" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "http://colonial.one" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /notes/:title # Post permalink
 timezone:           Europe/Warsaw # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
