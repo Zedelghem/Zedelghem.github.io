@@ -2,8 +2,8 @@
 title:              "Colonial One"
 description:        "A blog on philosophy, science and the future of human race. Your flag-blog on the way to the future."
 #logo.url:           "http://colonial.one/assets/spaceship.png"
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+google_verify:       # Put your Google Verification here
+google_analytics:   UA-71892965-2 # Put your Google Analytics code
 
 # Author Info
 author_name:        "Borys Jastrzebski"
