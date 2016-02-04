@@ -1,5 +1,5 @@
 ---
-title: Public communication for the new era
+title: Towards public communication for the new era
 updated: 2016-02-01 13:00
 ---
 
