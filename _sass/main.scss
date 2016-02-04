@@ -211,6 +211,7 @@ sup {
 }
 time {
   color: #555;
+  text-align: center !important;
 }
 code,
 pre {
@@ -262,6 +263,7 @@ iframe {
 
 article h1 {
     margin-bottom: 5px;
+    font-size: 2em;
 }
 
 article {
@@ -280,8 +282,8 @@ article {
     margin: 2em 0;
   }*/
   .center {
-    text-align: center;
-    margin: 0 auto;
+    text-align: left;
+    margin: 0 auto 3em;
   }
   hr {
     border: 0;
