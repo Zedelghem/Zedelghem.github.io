@@ -31,7 +31,18 @@ Politics remains a sphere of purely verbal communication. Prospects, programmes 
 It's a good place to note (thanks to K. for this remark) that the argument has nothing to do with content of communication; it's purely about operational capacity of human brain. Thus the whole type of counterarguments based on the relative character of truth, or subjectivity in general, has no relevance to the issue. The main apprehension here is quite simple: our attention and working memory spans are too short for thorough proccessing of information during an activity so quick and irreversible as conversation. Thus we should not give oral debate a prominent position in the forming of our opinions. Whether there is one truth or many is neutral to this claim.
 
 ## What's next?
+I denounced speech as not fit for a medium of social change, but what should replace it? Shouldn't we be more conservative about it? After all, who knows if other possible modes of communication will do better? My asnwer is - WE do know. 
 
+There already is a widely used and thoroughly tested method of communicating evidence and opinions that would meet our expectations: it's the academic standard of peer-reviewed publications. It's tried out and as good as we can get. All the problems it generates are incomparably pettier than isuues with the traditional, oral way of doing society. Writing presented with references to evidence and clearly structured arguments, then proofread, discussed and wrapped in counterarguments as the backbone of our political debate would guarantee the quality of our policies skyrocket in no time.
+
+Furthermore, implementation of the scholarly mode to practical political thinking can be done immediately. All it takes for the transition to fulfil itself is politicians doing less talking and more writing, which then would be commented on and presented to the public along with critical remarks. We don't even have to change our political systems to start the revolution. The only initial requirement would be voters evaluating their representatives based on well-structured writing and the quality of arguments rather than performance during the debates. Next, a number of professional journals with a rigorous review system should be founded, for representatives, academics and the public to address the issues in question in an accountable and useful way. Finally, oral debate's role in parliamentary proceedings should be diminished as far as possible and replaced with written communication. Above all, oral debates should not directly precede the casting of votes, because of their high emotional impact.
+
+## Conclusions
+1. Men with moustache are not necessarily lame.
+2. Our working memory and attention spans are pretty pathetic.
+3. Talking is fun and definitely useful, just not for pondering upon complicated matters and taking important decisions.
+4. It's devastating that politics is based on oral communication, regardless of pts. 2. & 3.
+5. We have a working solution to pt. 4. that can be implemented on the go - written communication according to the academic standard of peer-reviewed publications.
 
 [^1]: ![Final proof](https://arcturusproject.files.wordpress.com/2015/08/col-sanders.jpg)
 [^2]: [John B. Arden, Lloyd Linford. 2008. *Brain-Based Therapy with Adults*. John Wiley & Sons.](https://books.google.pl/books?id=w1GQZF983BQC) p. 96.
