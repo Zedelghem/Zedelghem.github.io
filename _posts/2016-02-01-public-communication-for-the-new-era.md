@@ -46,11 +46,11 @@ Furthermore, implementation of the scholarly mode to practical political thinkin
 
 ---
 
-<small>**List of footnotes**
-1. [Final proof](https://arcturusproject.files.wordpress.com/2015/08/col-sanders.jpg) <br>
-2. [John B. Arden, Lloyd Linford. 2008. *Brain-Based Therapy with Adults*. John Wiley & Sons.](https://books.google.pl/books?id=w1GQZF983BQC) p. 96. <br>
-3. To be fair, I didn't delve into the matter any deeper than [this pop-article by APS](http://www.psychologicalscience.org/index.php/publications/observer/2006/july-06/how-many-seconds-to-a-first-impression.html), [this text in the Guardian](http://www.theguardian.com/world/2009/mar/08/human-brain-circuit-impressions) and [this cool post from Scientific American's blog](http://blogs.scientificamerican.com/frontiers-for-young-minds/how-quickly-can-and-should-you-judge-a-face/). <br>
-4. Sure, bureaucracy not only values structured written communication, it truly knows no other. However, bureaucracy isn't even a collective decision making process but a hierarchical sequence of regulated choices. Politics and civic cooperation are different, if not separate, activities and do an entirely different job - they devise framework for bureaucratic regulations.</small>
+<small>**List of footnotes** <br>
+**1.** [Final proof](https://arcturusproject.files.wordpress.com/2015/08/col-sanders.jpg) <br>
+**2.** [John B. Arden, Lloyd Linford. 2008. *Brain-Based Therapy with Adults*. John Wiley & Sons.](https://books.google.pl/books?id=w1GQZF983BQC) p. 96. <br>
+**3.** To be fair, I didn't delve into the matter any deeper than [this pop-article by APS](http://www.psychologicalscience.org/index.php/publications/observer/2006/july-06/how-many-seconds-to-a-first-impression.html), [this text in the Guardian](http://www.theguardian.com/world/2009/mar/08/human-brain-circuit-impressions) and [this cool post from Scientific American's blog](http://blogs.scientificamerican.com/frontiers-for-young-minds/how-quickly-can-and-should-you-judge-a-face/). <br>
+**4.** Sure, bureaucracy not only values structured written communication, it truly knows no other. However, bureaucracy isn't even a collective decision making process but a hierarchical sequence of regulated choices. Politics and civic cooperation are different, if not separate, activities and do an entirely different job - they devise framework for bureaucratic regulations.</small>
 
 [^1]: ![Final proof](https://arcturusproject.files.wordpress.com/2015/08/col-sanders.jpg)
 [^2]: [John B. Arden, Lloyd Linford. 2008. *Brain-Based Therapy with Adults*. John Wiley & Sons.](https://books.google.pl/books?id=w1GQZF983BQC) p. 96.
