@@ -211,7 +211,6 @@ sup {
 }
 time {
   color: #555;
-  text-align: center !important;
 }
 code,
 pre {
@@ -263,16 +262,16 @@ iframe {
 
 article h1 {
     margin-bottom: 5px;
-    font-size: 2em;
+    font-size: 2.2em;
 }
 
 article {
   max-width: 500px;
   margin: 0 auto;
-  .title {
+  /*.title {
     line-height: 1.4em;
     text-align: center;
-  }
+  }*/
   /*.divider {
     background: #ddd;
     background: -webkit-gradient(linear,left top,right top,from(rgba(255,255,255,0)),color-stop(#ccc),to(rgba(255,255,255,0)));
