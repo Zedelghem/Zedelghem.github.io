@@ -63,7 +63,7 @@ Finally, philosophy’s greatest advantage is at the sime time its greatest peri
 ---
 <small>
 **List of footnotes** <br>
-**1**:  A strongly expressed wariness towards capitalism is present in modern sociological writings. Nevertheless, I would not use it as a counterargument. First of all, the texts in question usually belong to the marxists tradition, of which there is not even an admitted belief whether it is a scholarship or not. Moreover, despite this open vigilance, sociology follows other rules of the market quite successfully; just to mention its role in market researches. <br>
+**1**:  A strongly expressed wariness towards capitalism is present in modern sociological writings. Nevertheless, I would not use it as a counterargument. First of all, the texts in question usually belong to the marxists tradition, of which there is not even an admitted belief whether it is a scholarship or not. Moreover, despite this open vigilance, sociology follows other rules of the market quite successfully; just to mention its role in market researches. <br> <br>
 Finally, even though it does stay alert to economic processes, there exists no organised and repetitive reflection on technical and scientific paradigm. On the contrary, those who tend to criticise market-based society often turn to purely technological world as a remedy. It looks like a dead end to me.
 </small>
 
