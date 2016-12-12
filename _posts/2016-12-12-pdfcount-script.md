@@ -24,4 +24,4 @@ If you want even less effort involved, you can use the following script to extra
 mdls -name kMDItemNumberOfPages ./$1/*.pdf | cut -d= -f 2 | awk '{s+=$1} END {print s}'
 ```
 
-Here the output is an integer.
+Here the output is, of course, an integer.
