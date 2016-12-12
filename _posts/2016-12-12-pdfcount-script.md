@@ -1,5 +1,5 @@
 ---
-title: One-liner for macOS to list page count of PDF files in a directory
+title: Bash / shell one-liner for macOS to list page count of PDF files in a directory
 updated: 2016-12-12 19:35
 ---
 I found this pipeline on StackOverflow, added a variable, put into /usr/locale/bin on a Mac and lo, behold.
