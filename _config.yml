@@ -26,8 +26,6 @@ kramdown:
     input:          GFM
 sass:
     style:          :compressed
-future:             true
-timezone:           CET
 
 # Other Params
 include:            [ "robots.txt" ]
