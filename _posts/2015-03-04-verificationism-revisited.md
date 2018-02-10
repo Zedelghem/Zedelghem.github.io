@@ -34,7 +34,7 @@ Lycan collected seven objections to verificationism. They vary in complexity, th
 
 In other words, verificationists want us to believe that it is possible to construct comparable private languages. It is but another case of Wittgenstein’s beetle in a box. We all have boxes of sensations accessible to none but ourselves. Our talk of the contents of the boxes would thrive even if they were empty, and therefore has nothing to do with them whatsoever. Such empirical verification is not empirical at all. It depends entirely on a language game which is its sole point of reference.
 
->That is to say: if we construe the grammar of the expression of sensation on the model of ‘object and designation,’ the object drops out of consideration as irrelevant.
+>That is to say: if we construe the grammar of the expression of sensation on the model of ‘object and designation,’ the object drops out of consideration as irrelevant (Wittgenstein, *Philosophical Investigations*, §293).
 
 
 ---
