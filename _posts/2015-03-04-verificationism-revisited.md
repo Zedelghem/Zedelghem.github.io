@@ -9,8 +9,8 @@ Browsing the net in search for more information on the Vienna Circle I came acro
 Brown starts by introducing Lycan’s own commentary on Ayer’s understanding of verificationism.
 
 > Ayer seems to use verificationism in two different ways (as Lycan points out on p. 99):
-> 1. As a criterion of cognitive significance: a way of distinguishing between sentences that are (cognitively) meaningful (namely, “tautologies,” i.e. analytic truths, and scientific claims) and those that are not (especially metaphysical claims).
-> 2. As a theory of meaning, i.e. a way of saying what meaning is and what the meanings of individual sentences are. (Note that unlike some other accounts we’ve looked at, as a theory of meaning, verificationism only applies to complete sentences, not to individual words or phrases.)
+> **1.** As a criterion of cognitive significance: a way of distinguishing between sentences that are (cognitively) meaningful (namely, “tautologies,” i.e. analytic truths, and scientific claims) and those that are not (especially metaphysical claims).
+> **2.** As a theory of meaning, i.e. a way of saying what meaning is and what the meanings of individual sentences are. (Note that unlike some other accounts we’ve looked at, as a theory of meaning, verificationism only applies to complete sentences, not to individual words or phrases.)
 
 So far, so good. But he does not stop there. Then comes a controversy:
 
@@ -38,5 +38,4 @@ In other words, verificationists want us to believe that it is possible to const
 
 
 ---
-
-Originally published at [medium.com](https://medium.com/the-slingshot/verificationism-revisited-607d5587c621)
+<small>Originally published at [medium.com](https://medium.com/the-slingshot/verificationism-revisited-607d5587c621)</small>
