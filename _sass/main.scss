@@ -158,7 +158,8 @@ span[data-note] {
     &:hover + .logo-prompt,
     &:focus + .logo-prompt {
       display: inline-block !important;
-      /*transition-duration: 1s; checking something*/
+      transition-duration: 0.7s;
+      -webkit-transition-duration: 0.7s;
       -webkit-transition: all 0.7s ease-in-out;
       -moz-transition: all 0.7s ease-in-out;
       -ms-transition: all 0.7s ease-in-out;
