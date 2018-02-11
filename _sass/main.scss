@@ -156,13 +156,6 @@ span[data-note] {
       transition-duration: 1s;
     }
     
-    .highlighted_box {
-      border: 0.13em dotted #404040;
-      border-radius: 15px;
-      padding: 1em;
-      margin-top: 2em;
-    }
-    
     .gravatar {
       margin-top: 5px;
       -webkit-border-radius: 50%;
@@ -175,6 +168,14 @@ span[data-note] {
       }
     }
   }
+  
+  .highlighted_box {
+      border: 0.13em dotted #404040;
+      border-radius: 15px;
+      padding: 1em;
+      margin-top: 2em;
+   }
+  
   .logo-prompt {
     position: absolute;
     display: none;
